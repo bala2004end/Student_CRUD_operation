@@ -1,4 +1,4 @@
-package com.bala.studentcrud.entity;
+package com.bala.student_crud.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
